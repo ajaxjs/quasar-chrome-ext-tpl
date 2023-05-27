@@ -1,0 +1,12 @@
+body{
+    background: green !important;
+}
+
+.popup {
+    background: rgba(255, 255, 0, 0.3);
+    color: red;
+    padding: 15px;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
